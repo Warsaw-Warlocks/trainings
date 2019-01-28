@@ -1,1 +1,4 @@
 # trainings
+
+# Current subjects:
+* git
