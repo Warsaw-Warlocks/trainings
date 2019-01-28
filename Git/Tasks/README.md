@@ -11,3 +11,27 @@
 8. Create pull request for your branch, and tag Me(michalmietlinski) to do review;
 9. In pull request include information about what you did, and try adding some tags;
 
+## Detached head
+1. Set remotes for origin / upstream (or check if you have them);
+2. Checkout remote branch - can be master;
+3. Try to add some valuable content (or just work with your directory), and try to push to branch;
+You can try to change branch before or after making a commit, but see what happens if you want to checkout to different branch, after making a commit on detached head;
+
+## Resetting changes
+1. Pull recent changes;
+2. Make new branch (local);
+3. Make changes;
+4. Try resetting single file from command line;
+5. Try resetting all changes within directory from command line;
+6. Checkout master again;
+7. Delete your temporary local branch using command line;
+
+## Merging branches
+1. Create new branch;
+2. Add changes to your directory content and commit - you can split it into multiple commits;
+3. Checkout master;
+4. Create and checkout new branch;
+5. Add different changes to your directory - you can split those into different commits as well;
+6. Try merging those two into one, and push that one into repository, make a Pull Request;
+
+
