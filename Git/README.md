@@ -9,6 +9,7 @@
 * https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
 * https://www.youtube.com/watch?v=SWYqp7iY_Tc
 * https://www.youtube.com/watch?v=HVsySz-h9r4
+* https://www.youtube.com/watch?v=noZnOSpcjYY
 Rebase vs Merge:
 * https://www.youtube.com/watch?v=CRlGDDprdOQ
 
@@ -26,5 +27,4 @@ Rebase vs Merge:
 * Advanced Git config;
 * Readme syntax;
 * CI/CD introcuction;
-
-
+* Linux manual. 
