@@ -34,4 +34,11 @@ You can try to change branch before or after making a commit, but see what happe
 5. Add different changes to your directory - you can split those into different commits as well;
 6. Try merging those two into one, and push that one into repository, make a Pull Request;
 
-
+## Cherry picking
+1. Create new branch;
+2. Add Changes to documentation (links, comments, ideas)
+3. Commit changes:
+4. Create and checkout new branch;
+5. Cherry pick that commit to your new branch;
+6. Push to repository;
+7. Create Pull Request
