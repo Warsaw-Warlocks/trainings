@@ -42,3 +42,8 @@ You can try to change branch before or after making a commit, but see what happe
 5. Cherry pick that commit to your new branch;
 6. Push to repository;
 7. Create Pull Request
+
+## Using GitK
+1. Checkout branch gitK_test
+2. Add one commit with some made up data in gitKTest directory file GitKHistory;
+3. Use GitK to view history and see the differences in file!

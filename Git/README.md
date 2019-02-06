@@ -31,6 +31,8 @@ To be included:
 * https://www.youtube.com/watch?v=0fKg7e37bQE
 Rebase vs Merge:
 * https://www.youtube.com/watch?v=CRlGDDprdOQ
+GitK
+https://git-scm.com/docs/gitk
 
 
 ## Ideas to include:
