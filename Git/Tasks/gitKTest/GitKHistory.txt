@@ -1,4 +1,6 @@
 1. New history
 Some text - blablabla
 2. Some change in this same commit;
+4. Inserted that in second commit - that's why order is not right;
 3. Another paragraph - why not :)
+5. Something new!
