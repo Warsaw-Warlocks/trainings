@@ -1,0 +1,4 @@
+1. New history
+Some text - blablabla
+2. Some change in this same commit;
+3. Another paragraph - why not :)
