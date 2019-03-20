@@ -48,6 +48,7 @@ https://git-scm.com/docs/gitk
 * Advanced Git config;
 * Readme syntax;
 * CI/CD introcuction;
-* 
+* Abort
+* Cherry-pick
 
 
