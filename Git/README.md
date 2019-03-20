@@ -33,7 +33,7 @@ Rebase vs Merge:
 * https://www.youtube.com/watch?v=CRlGDDprdOQ
 GitK
 https://git-scm.com/docs/gitk
-
+* https://www.git-tower.com/blog/git-cheat-sheet
 
 ## Ideas to include:
 * Detached head;
@@ -48,5 +48,6 @@ https://git-scm.com/docs/gitk
 * Advanced Git config;
 * Readme syntax;
 * CI/CD introcuction;
+* 
 
 
