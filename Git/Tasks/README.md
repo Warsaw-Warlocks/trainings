@@ -47,3 +47,35 @@ You can try to change branch before or after making a commit, but see what happe
 1. Checkout branch gitK_test
 2. Add one commit with some made up data in gitKTest directory file GitKHistory;
 3. Use GitK to view history and see the differences in file!
+
+## Using Diff:
+1. Checkout new branch;
+2. Modify one of text files with irrelevant content - don't change anything in any Readme or real task;
+3. Check your changes using git diff;
+4. Compare your changes with master using git diff;
+5. Compare branches - your new branch with master - using... you guest it - git diff;
+6. Checkout master;
+7. Delete your branch
+
+## Amend
+1. Checkout new branch (local)
+2. Create changes to one of irrelevant text files;
+3. Commit changes within branch;
+4. Git log your changes - see your new commit/commits
+5. Push to remote depository;
+6. Create additional changes to those files;
+7. Use git commit --amend to change name of the commit and add those changes;
+8. Push amended commit to remote (this might be tricky, learn about force!)
+9. Check you history using git log;
+10. Check commit history on github;
+11. Remove your branch from local and remote;
+
+## Making use of gitignore;
+1. Create new local branch;
+2. Create directory within Git dir - it's name should be your nick;
+3. Create directories perm, and hidden within your own dir;
+4. Check if gitignore exists, if not - create it and add your hidden directory to it;
+5. Commit those changes;
+6. Push to remote;
+7. Create a PR;
+8. Remove local branch(Do not remove upstream branch!)
